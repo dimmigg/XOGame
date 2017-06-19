@@ -4,5 +4,9 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("dratute");
+        Field.init();
+
+        System.out.println("new field:");
+//        Field.print();
     }
 }
